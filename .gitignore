@@ -1,0 +1,7 @@
+.terraform
+.terraform.lock.hcl
+terraform
+terraform.pub
+terraform.tfstate
+terraform.tfstate.backup
+vmskp.pem
