@@ -17,3 +17,7 @@ variable "security_group_name" {
 variable "private_key" {
   default = "terraform"
 }
+
+variable "ami" {
+  default = "ami-04b70fa74e45c3917"
+}
